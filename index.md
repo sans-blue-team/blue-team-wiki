@@ -1,9 +1,15 @@
 Welcome to the SANS Blue Team Wiki
 ==================
 
-We hope you find the information contained here useful. If you do, please share this resource with others and consider contributing to make this even more valuable. -- **Seth Misenar and Eric Conrad, SANS Blue Team Operations**
+> We hope you find the information contained here useful. If you do, please share this resource with others and consider contributing to make this even more valuable. -- **Seth Misenar and Eric Conrad, SANS Blue Team Operations**
 
-About SANS Blue Team Operations Curriculum
+What Is Blue Team
+--------
+**Blue Team==Defense** The term Blue Team comes from the world of military simulation exercises. During exercises, the Red Team would be those playing the role of the adversary. The Blue Team would be acting as the friendly forces being attacked. So Red Team acts as Offense and Blue Team as Defense. Specifically emphasizing cyber security, the Blue Team's focus is to defend the organization from digital/cyber attacks. In truth, while everything that improves the defensive security posture could be construed as Blue Team, there is an overt emphasis on discovering and defending against attacks.
+
+Additionally, Blue Team is now also a defined curriculum within <a href='https://www.sans.org' target='_blank'>**SANS**</a>.
+
+SANS Blue Team Operations Curriculum
 --------
 Blue Team Operations is a recently formed curriculum at SANS. Much like SANS DFIR and Pen Test curricula, the goal of forming a dedicated curriculum for Blue Team serves to allow heightened focus serving the community. More specifically, Blue Team now has SANS Authors/Instructors Eric Conrad and Seth Misenar to provide this focus. The most obvious and outward results of the curriculum will be new courses specifically developed to meet the needs of the Cyber Defense community. Check out our recently developed and forthcoming Blue Team offerings:
 
