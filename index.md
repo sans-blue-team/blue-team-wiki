@@ -3,6 +3,18 @@ Welcome to the SANS Blue Team Wiki
 
 We hope you find the information contained here useful. If you do, please share this resource with others and consider contributing to make this even more valuable. -- **Seth Misenar and Eric Conrad, SANS Blue Team Operations**
 
+About SANS Blue Team Operations Curriculum
+--------
+Blue Team Operations is a recently formed curriculum at SANS. Much like SANS DFIR and Pen Test curricula, the goal of forming a dedicated curriculum for Blue Team serves to allow heightened focus serving the community. More specifically, Blue Team now has SANS Authors/Instructors Eric Conrad and Seth Misenar to provide this focus. The most obvious and outward results of the curriculum will be new courses specifically developed to meet the needs of the Cyber Defense community. Check out our recently developed and forthcoming Blue Team offerings:
+
+### New and Upcoming Courses
+- <a href='https://www.sans.org/sec555' target='_blank'>SEC555: SIEM and Tactical Analytics *New*</a>
+- <a href='https://www.sans.org/sec545' target='_blank'>SEC545: Cloud Security *New*</a>
+- SEC530 - Architecture (*2018*)
+- SEC487 - OPSEC (*2018*)
+
+
+
 Live Blue Team Wiki
 --------
 
