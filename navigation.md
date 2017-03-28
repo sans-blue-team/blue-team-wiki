@@ -1,16 +1,19 @@
 SANS Defense
 ======
 
-[Tools/Commands]()
 
-- #### Cheat Sheets
+[Cheat Sheets]()
+
 -	[Linux CLI 101](Tools/LinuxCLI101.md)
 -	[Linux CLI](Tools/LinuxCLI.md)
 -	[ModSecurity Rules](Tools/ModSecurity.md)
 - [Regex](Tools/Regex.md)
 -	[PowerShell Get-WinEvent](Tools/Get-WinEvent.md)
 -	[Windows Event Logs Table](Tools/WindowsEventLogsTable.md)
-- #### Tools
+
+[Key Tools]()
+
+- [DeepBlueCLI](Tools/DeepBlueCLI.md)
 - [Bro](Tools/Bro.md)
 - [freq.py](Tools/freq.py.md)
 -	[tshark](Tools/tshark.md)
@@ -26,26 +29,20 @@ SANS Defense
 
 - [Packet Decoding Cheat Sheet]()
 - [PCAPs]()
-
-[Updates]()
-
-- [Errata](Updates/Eratta.md)
-- [Submit Bug/Suggestion](Updates/Bugs.md)
-- [Course Suggestion](Updates/Suggest.md)
-- [Wiki Contributions](Updates/Contrib.md)
-- [Wiki Style Guide](Updates/style_guide.md)
+- [Wire/tshark Display Filters]()
 
 [Blue Team Courses]()
 
 - #### Blue Team Operations
-- [555 - SIEM (*New*)](Courses/555.md)
-- [545 - Cloud *New*](Courses/545.md)
-- [530 - Architecture (*Upcoming*)](Courses/530.md)
-- [487 - OPSEC (*Upcoming*)](Courses/487.md)
-- [511 - SecOps](Courses/511.md)
-- [503 - IDS](Courses/503.md)
-- [505 - Windows](Courses/505.md)
-- [506 - Unix](Courses/506.md)
+- <a href="https://www.sans.org/sec555" target="_blank">555 - SIEM</a>
+- <a href="https://www.sans.org/sec511" target="_blank">511 - SecOps</a>
+- <a href="https://www.sans.org/sec503" target="_blank">503 - IDS</a>
+- <a href="https://www.sans.org/sec505" target="_blank">505 - Windows</a>
+- <a href="https://www.sans.org/sec506" target="_blank">506 - Unix</a>
+- #### Upcoming Courses
+- [545 - Cloud *New*]
+- [530 - Architecture (*Upcoming*)]
+- [487 - OPSEC (*Upcoming*)]
 - #### Other
 - [Roadmap](Courses/Roadmap.md)
 - [Course You Need/Want](Courses/Needed.md)
@@ -62,6 +59,14 @@ SANS Defense
 - [GSE](Certs/GSE.md)
 - [Cert You Need/Want](Courses/Needed.md)
 
+<!--
+[Updates]()
+
+- [Errata](Updates/Eratta.md)
+- [Submit Bug/Suggestion](Updates/Bugs.md)
+- [Course Suggestion](Updates/Suggest.md)
+- [Wiki Contributions](Updates/Contrib.md)
+- [Wiki Style Guide](Updates/style_guide.md)
 
 
 [Instructors]()
@@ -70,4 +75,6 @@ SANS Defense
 - [Submit Bug/Suggestion](Updates/Bugs.md)
 - [Course Suggestion](Updates/Suggest.md)
 - [Wiki Contributions](Updates/Contrib.md)
-- [Wiki Style Guide](Updates/style_guide.md)
+- [Wiki Style Guide](Updates/style_guide.md)-->
+
+[NetWars Defense](NetWars.md)
