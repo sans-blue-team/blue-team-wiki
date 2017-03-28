@@ -8,7 +8,7 @@ Welcome to the SANS Blue Team Wiki
 
 
 ![Cyber Defense](CyberDefense_logo.jpg)
-### **`CDWiki Version: 0.0.1 #Beta`**
+### **`SANS Blue Team Wiki Version: 0.0.1 #Beta`**
 
 ---
 

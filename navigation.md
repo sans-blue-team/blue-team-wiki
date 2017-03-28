@@ -23,9 +23,9 @@ SANS Defense
 -	[Wireshark](/Tools/Wireshark.md)
 
 [Resources]()
+
 - [Packet Decoding Cheat Sheet]()
 - [PCAPs]()
--
 
 [Updates]()
 
@@ -39,12 +39,12 @@ SANS Defense
 
 - #### Blue Team Operations
 - [555 - SIEM (*New*)](/Courses/555.md)
-- [530 - Architecture (*New*)](/Courses/530.md)
-- [511 - ](/Courses/511.md)
+- [545 - Cloud *New*](/Courses/545.md)
+- [530 - Architecture (*Upcoming*)](/Courses/530.md)
+- [511 - SecOps](/Courses/511.md)
 - [503 - IDS](/Courses/503.md)
 - [505 - Windows](/Courses/505.md)
 - [506 - Unix](/Courses/506.md)
-- [545 - Cloud *New*](/Courses/545.md)
 - #### Other
 - [Roadmap](/Courses/Roadmap.md)
 - [Course You Need/Want](/Courses/Needed.md)
@@ -52,11 +52,6 @@ SANS Defense
 
 [Certifications]()
 
-- #### Cyber Defense Essentials
-- [GISF - 301](/Courses/301.md)
-- [GSEC - 401](/Courses/401.md)
-- [GCED - 501](/Courses/501.md)
-- [GISP - 414](/Courses/414.md)
 - #### Blue Team Operations
 - [GMON - 511](/Courses/511.md)
 - [GCIA - 503](/Courses/503.md)
