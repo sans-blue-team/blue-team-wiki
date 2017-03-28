@@ -1,36 +1,23 @@
-SANS Blue Team Wiki
+Welcome to the SANS Blue Team Wiki
 ==================
 
+We hope you find the information contained here useful. If you do, please share this resource with others and consider contributing to make this even more valuable. -- **Seth Misenar and Eric Conrad, SANS Blue Team Operations**
+
+Live Blue Team Wiki
+--------
+
+See the <a href="https://sans-blue-team.github.io/blue-team-wiki/" target="_blank">hosted version</a> of this wiki, and our supporting repository for the latest version and to contribute to future versions.
+
+SANS Blue Team GitHub
+--------
+For this wiki and other projects, please check out the SANS Blue Team GitHub account. @sans-blue-team
+
+Version
+--------
+#### **`SANS Blue Team Wiki Version: 0.0.1 #Beta`**
 ---
 
-Welcome to the SANS Blue Team Wiki
-----------
-
-
-![Cyber Defense](CyberDefense_logo.jpg)
-### **`SANS Blue Team Wiki Version: 0.0.1 #Beta`**
-
----
-
-The goal of the SANS DefWiki
-
-Updating the Wiki
-----------
-
-**Note:** To ensure you are seeing the latest version of the wiki, while on the in-class (or VPN) network, please run **`sudo /home/student/update_wiki.sh`** at a terminal. Please note that you could be prompted for your password multiple times.
-
-```bash
-$ sudo /home/student/update_wiki.sh
-```
-
-If  you see a prompt like the following, please confirm you want to continue by typing 'yes'
-```
-The authenticity of host '10.5.11.25 (10.5.11.25)' can't be established.
-ECDSA key fingerprint is 75:cd:ac:10:20:f0:43:b4:a7:ba:35:42:0b:b4:d8:ff.
-Are you sure you want to continue connecting (yes/no)? yes
-```
-
----
+<!---
 
 Wiki Bugs or Suggestions
 ----------
@@ -42,3 +29,4 @@ Please let us know if you find any bugs in the wiki we need to squash. Also, rea
 **[http://cyber.gd/511_updates](http://cyber.gd/511_updates)** also feel free to email **<511@contextsecurity.com>**
 #### UPDATE THIS LINK
 ---
+-->
