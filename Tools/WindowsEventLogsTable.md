@@ -6,6 +6,9 @@
 | System || 7030	| ...service is marked as an interactive service.  However, the system is configured to not allow interactive services. This service may not function properly.|
 | System || 1056	| Create RDP certificate |
 | Security || 7045, 10000, 10001, 10100, 20001, 20002, 20003, 24576, 24577, 24579 | Insert USB |
+| Security || 4624 | Account Logon |
+| Security || 4625 | Failed login |
+| Security || 4688 | Process creation logging |
 | Security || 4720 |  A user account was created |
 | Security || 4722 | A user account was enabled |
 | Secutity || 4724, 4738 | Additional user creation events |

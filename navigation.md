@@ -7,17 +7,21 @@ SANS Defense
 -	[Linux CLI 101](Tools/LinuxCLI101.md)
 -	[Linux CLI](Tools/LinuxCLI.md)
 -	[ModSecurity Rules](Tools/ModSecurity.md)
-- [Regex](Tools/Regex.md)
 -	[PowerShell Get-WinEvent](Tools/Get-WinEvent.md)
 -	[Windows Event Logs Table](Tools/WindowsEventLogsTable.md)
--
+
+<!--
+- [Regex](Tools/Regex.md)
+-->
 
 [Key Tools]()
 
-- [DeepBlueCLI](Tools/DeepBlueCLI.md)
 - [Bro](Tools/Bro.md)
 - [freq.py](Tools/freq.py.md)
--	[tshark](Tools/tshark.md)
+- [tshark](Tools/tshark.md)
+
+<!--
+- [DeepBlueCLI](Tools/DeepBlueCLI.md)
 -	[SecurityOnion](Tools/SecurityOnion.md)
 -	[ELK](Tools/ELK.md)
 - [ngrep](Tools/ngrep.md)
@@ -30,7 +34,7 @@ SANS Defense
 
 [Resources]()
 
-- [Packet Decoding Cheat Sheet](#)
+-->
 - [PCAPs](#)
 - [Wire/tshark Display Filters](#)
 
@@ -46,10 +50,12 @@ SANS Defense
 - [545 - Cloud *New*](#)
 - [530 - Architecture (*Upcoming*)](#)
 - [487 - OPSEC (*Upcoming*)](#)
+
+<!--
 - #### Other
 - [Roadmap](Courses/Roadmap.md)
 - [Course You Need/Want](Courses/Needed.md)
-
+-->
 
 [Certifications]()
 
@@ -60,9 +66,10 @@ SANS Defense
 - <a href='https://giac.org/gcux' target='_blank'>GCUX - 506</a>
 - #### Other
 - <a href='https://giac.org/gse' target='_blank'>GSE</a>
-- [Cert You Need/Want](Courses/Needed.md)
-- <a href='https://www.sans.org/instructors/John-Hubbard' target='_blank'>John Hubbard</a>
 
+<!--
+- [Cert You Need/Want](Courses/Needed.md)
+-->
 
 
 [BT: Authors]()
