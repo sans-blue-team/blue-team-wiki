@@ -6,7 +6,7 @@ James Summers' Packet Analysis Spreadsheet
 ---------
 Below you will find a link for James Summers' Packet Analysis Reference Guide. James created this many years ago when preparing for his GCIA certification. Some of you have likely encountered a version of this file. Unfortunately, many instances have removed the credits sheet up front that calls out the creator/collator of this wonderful guide.
 
-[Packet Analysis Reference Guide](Summers_PacketAnalysisReferenceGuidev3.4.xlsx)
+[Packet Analysis Reference Guide](Tools/pdfs/Summers_PacketAnalysisReferenceGuidev3.4.xlsx)
 
 
 Special Thanks
