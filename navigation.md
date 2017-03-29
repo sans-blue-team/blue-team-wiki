@@ -7,7 +7,7 @@ SANS Defense
 -	[Linux CLI 101](Tools/LinuxCLI101.md)
 -	[Linux CLI](Tools/LinuxCLI.md)
 -	[ModSecurity Rules](Tools/ModSecurity.md)
-- [Packet Analysis SpreadSheet](Tools/Packets.md)
+- [Packet Analysis SpreadSheet](Packets.md)
 -	[PowerShell Get-WinEvent](Tools/Get-WinEvent.md)
 -	[Windows Event Logs Table](Tools/WindowsEventLogsTable.md)
 
