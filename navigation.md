@@ -11,10 +11,10 @@ SANS Defense
 -	[PowerShell Get-WinEvent](Tools/Get-WinEvent.md)
 -	[Windows Event Logs Table](Tools/WindowsEventLogsTable.md)
 - #### PDF Versions
--	[Linux CLI 101](Tools/pdfs/LinuxCLI101.md.pdf)
--	[Linux CLI](Tools/pdfs/LinuxCLI.md.pdf)
--	[PowerShell Get-WinEvent](Tools/pdfs/Get-WinEvent.md.pdf)
--	[Windows Event Logs Table](Tools/pdfs/WindowsEventLogsTable.md.pdf)
+-	[Linux CLI 101](Tools/pdfs/LinuxCLI101.pdf)
+-	[Linux CLI](Tools/pdfs/LinuxCLI.pdf)
+-	[PowerShell Get-WinEvent](Tools/pdfs/Get-WinEvent.pdf)
+-	[Windows Event Logs Table](Tools/pdfs/WindowsEventLogsTable.pdf)
 
 <!--
 -	[ModSecurity Rules](Tools/ModSecurity.md)
@@ -28,10 +28,10 @@ SANS Defense
 - [freq.py](Tools/freq.py.md)
 - [tshark](Tools/tshark.md)
 - #### PDF Versions
-- [Bro](Tools/pdfs/Bro.md.pdf)
-- [freq.py](Tools/pdfs/freq.py.md.pdf)
-- [tshark](Tools/pdfs/tshark.md.pdf)
--
+- [Bro](Tools/pdfs/Bro.pdf)
+- [freq.py](Tools/pdfs/freq.py.pdf)
+- [tshark](Tools/pdfs/tshark.pdf)
+
 <!--
 - [DeepBlueCLI](Tools/DeepBlueCLI.md)
 -	[SecurityOnion](Tools/SecurityOnion.md)
