@@ -149,7 +149,13 @@ Update frequency table with an odd (**`-o`**), bogus, but not random entry
 
 Additional Info
 --------------
+A printable PDF version of this cheatsheet is available here:
+[freq.py](pdfs/freq.py.pdf)
 
 https://isc.sans.edu/forums/diary/Detecting+Random+Finding+Algorithmically+chosen+DNS+names+DGA/19893/
 https://isc.sans.edu/diary/freq.py+super+powers%3F/19903
 https://isc.sans.edu/forums/diary/Continuous+Monitoring+for+Random+Strings/20451/
+
+Cheat Sheet Version
+--------------
+#### **`Version 1.0`**

@@ -28,3 +28,7 @@ Additional Info
 --------------
 
 [http://www.regular-expressions.info/](http://www.regular-expressions.info/)
+
+Cheat Sheet Version
+--------------
+#### **`Version 1.0`**

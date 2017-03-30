@@ -35,6 +35,6 @@ Tags
 
 Distro, NSM, Sguil, IDS, Bro, Linux, Sensor, Open Source
 
-Cheat Sheet Version
+CheatSheet Version Info
 --------------
-#### **`Version 1.0`**
+> #### **`Version 1.0`**

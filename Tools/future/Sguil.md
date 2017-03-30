@@ -7,7 +7,7 @@ Sguil
 Abstract
 --------
 
-Though difficult to 
+Though difficult to
 
 Where to Acquire
 ---------
@@ -19,3 +19,7 @@ Examples/Use Case
 
 Additional Info
 --------------
+
+Cheat Sheet Version
+--------------
+#### **`Version 1.0`**

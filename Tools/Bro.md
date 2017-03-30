@@ -1,8 +1,6 @@
 The Bro Network Security Monitor
 ========
 
-
-
 Abstract
 --------
 
@@ -21,7 +19,7 @@ Web site is: https://www.bro.org/
 
 Examples/Use Case
 ---------
-Run bro against a pcap, create bro log files in the current directory. Some of following logs files may be created, dpending on the pcap content:
+Run bro against a pcap, create bro log files in the current directory. Some of the following logs files may be created, dpending on the pcap content and bro configuration:
 * conn.log
 * dns.log
 * files.log
@@ -31,19 +29,23 @@ Run bro against a pcap, create bro log files in the current directory. Some of f
 * ssl.log
 * weird.log
 
+
 ```bash
 $ bro -r /pcaps/virut-worm.pcap
 ```
+
 Carve executables from a file:
 ```bash
 $ sudo bro -r /pcaps/virut-worm.pcap /opt/bro/share/bro/file-extraction/extract.bro
 $ ls -la /nsm/bro/extracted
 ```
+
 Carve multiple file types: exe, txt, jpg, png, html and "other" (uses the extension .xxx):
 ```bash
 $ sudo bro -r /pcaps/virut-worm.pcap /opt/bro/share/bro/file-extraction/extract-all.bro
 $ ls -la /nsm/bro/extracted
 ```
+
 Display x.509 issuer subjects:
 ```bash
 $ bro -C -r /pcaps/normal/https/alexa-top-500.pcap
@@ -52,3 +54,9 @@ $ cat ssl.log | bro-cut issuer_subject
 
 Additional Info
 --------------
+A printable PDF version of this cheatsheet is available here:
+[Bro](pdfs/Bro.pdf)
+
+Cheat Sheet Version
+--------------
+#### **`Version 1.0`**

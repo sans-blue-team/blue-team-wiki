@@ -17,3 +17,7 @@ Examples/Use Case
 
 Additional Info
 --------------
+
+Cheat Sheet Version
+--------------
+#### **`Version 1.0`**

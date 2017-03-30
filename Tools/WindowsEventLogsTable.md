@@ -1,4 +1,6 @@
-# Windows Event Logs Table
+Cheat Sheet Version
+--------------
+#### **`Version 1.0`**# Windows Event Logs Table
 
 | Log Name | Provider Name  | Event IDs | Description |
 | ------------- | ------------- | ------------- | ------------- |
@@ -21,3 +23,12 @@
 | Microsoft-Windows-AppLocker/EXE and DLL ||	8004 | (EXE/MSI) was prevented from running. |
 | Microsoft-Windows-WindowsDefender/Operational || 1116 | Windows Defender has detected malware or other potentially unwanted software|
 | Microsoft-Windows-WindowsDefender/Operational || 1117 | Windows Defender has taken action to protect this machine from malware or other potentially unwanted software|
+
+Additional Info
+--------------
+A printable PDF version of this cheatsheet is available here:
+[WindowsEventLogsTable](pdfs/WindowsEventLogsTable.pdf)
+
+CheatSheet Version Info
+--------------
+> #### **`Version 1.0`**

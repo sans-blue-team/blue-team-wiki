@@ -1,5 +1,6 @@
 Linux 101 Command Line Cheat Sheet
 ========
+
 Abstract
 ---------
 Fundamental Linux/Unix commands for the Linux/Unix command line learner. If you are experienced with Linux/Unix: you have probably mastered these commands. If not: you are in the right place.
@@ -17,7 +18,7 @@ Examples/Use Case
 * [cd](#cd)
 * [echo](#echo)
 * [ls](#ls)
-* [network commands] (#network-commands)
+* [network commands](#network)
 * [passwd](#passwd)
 * [ping](#ping)
 * [pwd](#pwd)
@@ -158,3 +159,9 @@ $ sudo bash
 ```
 Additional Info
 --------------
+A printable PDF version of this cheatsheet is available here:
+[LinuxCLI101](pdfs/LinuxCLI101.pdf)
+
+Cheat Sheet Version
+--------------
+#### **`Version 1.0`**

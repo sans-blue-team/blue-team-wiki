@@ -28,7 +28,7 @@ See the <a href="https://sans-blue-team.github.io/blue-team-wiki/" target="_blan
 
 SANS Blue Team GitHub
 --------
-For this wiki and other projects, please check out the SANS Blue Team GitHub account. @sans-blue-team
+For this wiki and other projects, please check out the SANS Blue Team GitHub account. <a href="https://github.com/sans-blue-team/" target="_blank">@sans-blue-team</a>
 
 Version
 --------

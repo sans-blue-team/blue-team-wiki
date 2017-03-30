@@ -157,8 +157,7 @@ $ strings /pcaps/fraudpack.pcap | grep -i user-agent | sort | uniq -c | sort -n
 ```
 Sort and unique lines, print the length of each unique line followed by the line itself, perform a reverse numeric sort of that count:
 ```bash
-$ strings /pcaps/fraudpack.pcap | grep -i user-agent | sort -u \
-| awk '{print length, $0}' | sort -rn
+$ strings /pcaps/fraudpack.pcap | grep -i user-agent | sort -u | awk '{print length, $0}' | sort -rn
 ```
 Sort on the the second comma separated field
 ```
@@ -197,3 +196,9 @@ cgi-bin
 ```
 Additional Info
 --------------
+A printable PDF version of this cheatsheet is available here:
+[LinuxCLI](pdfs/LinuxCLI.pdf)
+
+Cheat Sheet Version
+--------------
+#### **`Version 1.0`**

@@ -4,23 +4,34 @@ SANS Defense
 
 [Cheat Sheets]()
 
+- #### Web Versions
 -	[Linux CLI 101](Tools/LinuxCLI101.md)
 -	[Linux CLI](Tools/LinuxCLI.md)
--	[ModSecurity Rules](Tools/ModSecurity.md)
 - [Packet Analysis SpreadSheet](Packets.md)
 -	[PowerShell Get-WinEvent](Tools/Get-WinEvent.md)
 -	[Windows Event Logs Table](Tools/WindowsEventLogsTable.md)
+- #### PDF Versions
+-	[Linux CLI 101](Tools/pdfs/LinuxCLI101.md.pdf)
+-	[Linux CLI](Tools/pdfs/LinuxCLI.md.pdf)
+-	[PowerShell Get-WinEvent](Tools/pdfs/Get-WinEvent.md.pdf)
+-	[Windows Event Logs Table](Tools/pdfs/WindowsEventLogsTable.md.pdf)
 
 <!--
+-	[ModSecurity Rules](Tools/ModSecurity.md)
 - [Regex](Tools/Regex.md)
 -->
 
 [Key Tools]()
 
+- #### Web Versions
 - [Bro](Tools/Bro.md)
 - [freq.py](Tools/freq.py.md)
 - [tshark](Tools/tshark.md)
-
+- #### PDF Versions
+- [Bro](Tools/pdfs/Bro.md.pdf)
+- [freq.py](Tools/pdfs/freq.py.md.pdf)
+- [tshark](Tools/pdfs/tshark.md.pdf)
+-
 <!--
 - [DeepBlueCLI](Tools/DeepBlueCLI.md)
 -	[SecurityOnion](Tools/SecurityOnion.md)
@@ -47,10 +58,11 @@ SANS Defense
 - <a href='https://www.sans.org/sec503' target='_blank'>503 - IDS</a>
 - <a href='https://www.sans.org/sec505' target='_blank'>505 - Windows</a>
 - <a href='https://www.sans.org/sec506' target='_blank'>506 - Unix</a>
+- <a href='https://www.sans.org/sec579' target='_blank'>579 - Virtualization</a>
 - #### Upcoming Courses
-- [545 - Cloud *New*](#)
-- [530 - Architecture (*Upcoming*)](#)
-- [487 - OPSEC (*Upcoming*)](#)
+- [545 - Cloud (**New**)](#)
+- [530 - Architecture (**Upcoming**)](#)
+- [487 - OPSEC (**Upcoming**)](#)
 
 <!--
 - #### Other
