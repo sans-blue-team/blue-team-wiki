@@ -4,15 +4,19 @@ SANS Defense
 
 [Primers/Reference]()
 
-- #### Primers
+- **Primers**
 -	[Linux CLI 101](Tools/LinuxCLI101.md)
 -	[Linux CLI](Tools/LinuxCLI.md)
 -	[PowerShell Get-WinEvent](Tools/Get-WinEvent.md)
-- #### Reference
+-   ----
+-   ----
+- **Reference**
 -	[Windows Event Logs Table](Tools/WindowsEventLogsTable.md)
 -   [Packet Analysis](Packets.md)
 - <a href='Tools/tcpip/ascii.html' target='_blank'>HEX/DEC/ASCII Chart</a>
-- #### James Summers' TCP/IP Cheat Sheets
+-   ----
+-   ----
+- **James Summers' TCP/IP Cheat Sheets**
 - <a href='Tools/tcpip/ip.html' target='_blank'>IP</a>
 - <a href='Tools/tcpip/ipv6.html' target='_blank'>IPv6</a>
 - <a href='Tools/tcpip/tcp.html' target='_blank'>TCP</a>
@@ -20,57 +24,38 @@ SANS Defense
 - <a href='Tools/tcpip/icmp.html' target='_blank'>ICMP</a>
 - <a href='Tools/tcpip/dns.html' target='_blank'>DNS</a>
 -   [Full Packet Analysis SpreadSheet](Packets.md)
+-   ----
+-   ----
+- **SANS Pocket Guides**
+- <a href='Tools/pdfs/tcpip.pdf' target='_blank'>TCP/IP and tcpdump</a>
+- <a href='Tools/pdfs/ipv6_tcpip_pocketguide.pdf' target='_blank'>IPv6</a>
+- <a href='Tools/pdfs/linux-shell-survival-guide.pdf' target='_blank'>DFIR Linux Shell Survival</a>
+- <a href='Tools/pdfs/PowerShellCheatSheet_v41.pdf' target='_blank'>PowerShell Cheat Sheet</a>
+- <a href='Tools/pdfs/windows-command-line-sheet.pdf' target='_blank'>Windows Command Line Cheat Sheet</a>
+- <a href='Tools/pdfs/ScapyCheatSheet_v0.2.pdf' target='_blank'>Scapy Cheat Sheet</a>
+-   ----
+-   ----
+- **Printable Versions**
+- [Printable](Printables.md)
 
-<!--
-[Printables]()
-
-- Primers
-- Reference
-- Tools
--	[Linux CLI 101](Tools/pdfs/LinuxCLI101.pdf)
--	[Linux CLI](Tools/pdfs/LinuxCLI.pdf)
--	[PowerShell Get-WinEvent](Tools/pdfs/Get-WinEvent.pdf)
--	[Windows Event Logs Table](Tools/pdfs/WindowsEventLogsTable.pdf)
--   [Packet Analysis SpreadSheet](Packets.md)
-- [Bro](Tools/pdfs/Bro.pdf)
-- [freq.py](Tools/pdfs/freq.py.pdf)
-- [tshark](Tools/pdfs/tshark.pdf)
--->
-
-
-<!--
--	[ModSecurity Rules](Tools/ModSecurity.md)
-- [Regex](Tools/Regex.md)
--->
 
 [Tools]()
 
-- #### Key Tools
+- **Key Tools**
 - [Bro](Tools/Bro.md)
 - [freq.py](Tools/freq.py.md)
 - [tshark](Tools/tshark.md)
 - [PowerShell Get-WinEvent](Tools/Get-WinEvent.md)
-- #### Linux Command Line
+-   ----
+-   ----
+- **Linux Command Line**
 -	[Linux CLI 101](Tools/LinuxCLI101.md)
 -	[Linux CLI](Tools/LinuxCLI.md)
+-   ----
+-   ----
+- **Printable Versions**
+- [Printable](Printables.md)
 
-<!--
-- [DeepBlueCLI](Tools/DeepBlueCLI.md)
--	[SecurityOnion](Tools/SecurityOnion.md)
--	[ELK](Tools/ELK.md)
-- [ngrep](Tools/ngrep.md)
-- [Scapy](Tools/Scapy.md)
--	[Sguil](Tools/Sguil.md)
--	[Snort](Tools/Snort.md)
--	[Suricata](Tools/Suricata.md)
-- [tcpdump](Tools/tcpdump.md)
--	[Wireshark](Tools/Wireshark.md)
-
-[Resources]()
-
-- [PCAPs](#)
-- [Wire/tshark Display Filters](#)
--->
 
 [BT: Courses|Certs]()
 
@@ -92,15 +77,6 @@ SANS Defense
 - <a href='https://giac.org/gcux' target='_blank'>GCUX - 506</a>
 - <a href='https://giac.org/gse' target='_blank'>GSE</a>
 
-<!--
-- #### Other
-- [Roadmap](Courses/Roadmap.md)
-- [Course You Need/Want](Courses/Needed.md)
--->
-
-<!--
-- [Cert You Need/Want](Courses/Needed.md)
--->
 
 
 [BT: Faculty]()
@@ -129,3 +105,59 @@ SANS Defense
 
 [NetWars Defense](NetWars.md)
 --->
+
+<!--
+[Printables]()
+
+- Primers
+- Reference
+- Tools
+-	[Linux CLI 101](Tools/pdfs/LinuxCLI101.pdf)
+-	[Linux CLI](Tools/pdfs/LinuxCLI.pdf)
+-	[PowerShell Get-WinEvent](Tools/pdfs/Get-WinEvent.pdf)
+-	[Windows Event Logs Table](Tools/pdfs/WindowsEventLogsTable.pdf)
+-   [Packet Analysis SpreadSheet](Packets.md)
+- [Bro](Tools/pdfs/Bro.pdf)
+- [freq.py](Tools/pdfs/freq.py.pdf)
+- [tshark](Tools/pdfs/tshark.pdf)
+-->
+
+
+<!--
+-	[ModSecurity Rules](Tools/ModSecurity.md)
+- [Regex](Tools/Regex.md)
+-->
+
+
+<!--
+- #### Other
+- [Roadmap](Courses/Roadmap.md)
+- [Course You Need/Want](Courses/Needed.md)
+-->
+
+<!--
+- [Cert You Need/Want](Courses/Needed.md)
+-->
+
+<!--
+- [DeepBlueCLI](Tools/DeepBlueCLI.md)
+-	[SecurityOnion](Tools/SecurityOnion.md)
+-	[ELK](Tools/ELK.md)
+- [ngrep](Tools/ngrep.md)
+- [Scapy](Tools/Scapy.md)
+-	[Sguil](Tools/Sguil.md)
+-	[Snort](Tools/Snort.md)
+-	[Suricata](Tools/Suricata.md)
+- [tcpdump](Tools/tcpdump.md)
+-	[Wireshark](Tools/Wireshark.md)
+
+[Resources]()
+
+- [PCAPs](#)
+- [Wire/tshark Display Filters](#)
+-->
+
+
+<!--
+- <a href='Tools/pdfs/windows-cheat-sheet.pdf' target='_blank'>Windows Cheat Sheet</a>
+- <a href='Tools/pdfs/linux-cheat-sheet.pdf' target='_blank'>Linux Cheat Sheet</a>- -->

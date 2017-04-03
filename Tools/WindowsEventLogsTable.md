@@ -1,6 +1,6 @@
-Cheat Sheet Version
---------------
-#### **`Version 1.0`**# Windows Event Logs Table
+Some Key Windows Event Logs
+========
+
 
 | Log Name | Provider Name  | Event IDs | Description |
 | ------------- | ------------- | ------------- | ------------- |
@@ -29,6 +29,6 @@ Additional Info
 A printable PDF version of this cheatsheet is available here:
 [WindowsEventLogsTable](pdfs/WindowsEventLogsTable.pdf)
 
-CheatSheet Version Info
+Cheat Sheet Version
 --------------
-> #### **`Version 1.0`**
+#### **`Version 1.0`**
