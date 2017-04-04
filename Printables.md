@@ -28,4 +28,6 @@ Tools
 
 [Bro](Tools/pdfs/Bro.pdf)
 [freq.py](Tools/pdfs/freq.py.pdf)
+[ngrep](Tools/pdfs/ngrep.pdf)
+[tcpdump](Tools/pdfs/tcpdump.pdf)
 [tshark](Tools/pdfs/tshark.pdf)

@@ -44,6 +44,8 @@ SANS Defense
 - **Key Tools**
 - [Bro](Tools/Bro.md)
 - [freq.py](Tools/freq.py.md)
+- [ngrep](Tools/ngrep.md)
+- [tcpdump](Tools/tcpdump.md)
 - [tshark](Tools/tshark.md)
 - [PowerShell Get-WinEvent](Tools/Get-WinEvent.md)
 -   ----
