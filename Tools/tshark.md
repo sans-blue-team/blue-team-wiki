@@ -8,7 +8,7 @@ Abstract
 
 > *Without any options set, TShark will work much like tcpdump. It will use the pcap library to capture traffic from the first available network interface and displays a summary line on stdout for each received packet.*
 
-Source: tshark man page
+**Source:** tshark man page
 ```bash
 $ man tshark
 ```
@@ -20,6 +20,10 @@ Included with Wireshark.
 
 Examples/Use Case
 ---------
+
+**Note:** Some of the examples below presume files and paths that might not match your particular system and tool installation.
+
+**Warning:** Examples below use the `-R` syntax for doing display filters. Depending upon the version of tshark installed on your system, you might need to replace `-R` with `-Y`
 
 Read a pcap file:
 ```bash
