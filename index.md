@@ -15,7 +15,7 @@ Blue Team Operations is a recently formed curriculum at SANS. Much like SANS DFI
 
 ### New and Upcoming Courses
 - <a href='https://www.sans.org/sec555' target='_blank'>SEC555: SIEM and Tactical Analytics *New*</a>
-- <a href='https://www.sans.org/sec545' target='_blank'>SEC545: Cloud Security *New*</a>
+- SEC545: Cloud Security *New*
 - SEC530 - Architecture (*2018*)
 - SEC487 - OPSEC (*2018*)
 
