@@ -235,8 +235,9 @@ PS C:\> Get-ChildItem
 ```
 **Parameter shortening:**
 ```powershell
-PS C:\> ls –recurse is equivalent to:
+PS C:\> ls –recurse
 ```
+is equivalent to:
 ```powershell
 PS C:\> ls -r
 ```
