@@ -6,6 +6,7 @@ Primers
 ---------
 [Linux CLI 101](Tools/pdfs/LinuxCLI101.pdf)
 [Linux CLI](Tools/pdfs/LinuxCLI.pdf)
+[PowerShell Primer](Tools/pdfs/PowerShell.pdf)
 [PowerShell Get-WinEvent](Tools/pdfs/Get-WinEvent.pdf)
 
 Reference

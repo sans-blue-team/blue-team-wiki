@@ -16,6 +16,8 @@ Examples/Use Case
 
 Additional Info
 --------------
+A printable PDF version of this cheatsheet is available here:
+[](pdfs/.pdf)
 
 Cheat Sheet Version
 --------------

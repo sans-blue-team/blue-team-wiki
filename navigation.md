@@ -7,6 +7,7 @@ SANS Defense
 - **Primers**
 -	[Linux CLI 101](Tools/LinuxCLI101.md)
 -	[Linux CLI](Tools/LinuxCLI.md)
+-   [PowerShell Primer](Tools/PowerShell.md)
 -	[PowerShell Get-WinEvent](Tools/Get-WinEvent.md)
 -   ----
 -   ----
