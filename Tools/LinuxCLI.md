@@ -10,7 +10,7 @@ Many of these examples will use the "cat example.txt | command" syntax. This is 
 
 Why? Most everyone learning the Unix/Linux commandline has accidentally reversed the "<" sign (read) with the ">" sign (write), accidentally overwriting a file. The syntax of "cat example.txt | command" is therefore safer. Please feel free to use whatever syntax you are most comfortable with.
 
-On a related note, "There is more than one way to do it," as Larry Wall once said. You may come up with different ways to perform the following, and perhaps better ways as well. Feel free to share your CLI Kung Fu with your instructor!
+On a related note, "There is more than one way to do it," as Larry Wall once said. You may come up with different ways to perform the following, and perhaps better ways as well. Feel free to share your CLI Kung Fu with us for possible inclusion!
 
 Where to Acquire
 ---------
@@ -19,7 +19,7 @@ These tools are installed natively in most Unix/Linux distributions, as well as 
 Examples/Use Case
 ---------
 * [awk](#awk)
-* [checksum tools](#checksum-tools)
+* [checksums](#checksums)
 * [cut](#cut)
 * [file](#file)
 * [grep](#grep)
@@ -45,7 +45,7 @@ Print the last period delimited field
 $ cat domains.txt | awk -F "." '{print $(NF)}'
 ```
 ---------
-### checksum tools
+### checksums
 Generate the MD5 checksum of a file:
 ```bash
 $ md5sum /etc/passwd
