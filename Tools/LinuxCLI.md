@@ -2,7 +2,7 @@ Linux Command Line Cheat Sheet
 ========
 Abstract
 ---------
-The following examples may be typed in the Security511 Linux VM, and copy/paste will work fine (be sure to omit the prompt).
+The following examples may be typed in the terminal, but copy/paste will work fine (be sure to omit the prompt).
 * To copy in Firefox: press CTRL-C
 * To paste into a terminal: press SHIFT-CTRL-V (or Edit->Paste)
 
