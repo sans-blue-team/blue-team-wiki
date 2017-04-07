@@ -5,7 +5,7 @@ Abstract
 ---------
 Fundamental Linux/Unix commands for the Linux/Unix command line learner. If you are experienced with Linux/Unix: you have probably mastered these commands. If not: you are in the right place.
 
-These commands are designed for use in the Security511 Linux VM.
+**Note:** Some of the examples below presume files and paths that might not match your particular system and tool installation. 
 
 Where to Acquire
 ---------
@@ -18,7 +18,7 @@ Examples/Use Case
 * [cd](#cd)
 * [echo](#echo)
 * [ls](#ls)
-* [network commands](#network)
+* [networking](#networking)
 * [passwd](#passwd)
 * [ping](#ping)
 * [pwd](#pwd)
@@ -68,7 +68,7 @@ Change Directory (cd) to the /tmp directory:
 ```bash
 $ cd /tmp
 ```
-Change to the home directory. The following commands are equivalent for the Security511 Linux VM "student" user: "~" means home directory (for example: /home/student):
+Change to the home directory. The following commands are equivalent for the "student" user: "~" means home directory (for example: /home/student):
 ```bash
 $ cd
 $ cd ~
@@ -112,7 +112,7 @@ List the files in the current directory, long output (-l), all files (-a), rever
 $ ls -lart
 ```
 ---------
-### network commands
+### networking
 Show network interface configuration:
 ```bash
 $ ifconfig
