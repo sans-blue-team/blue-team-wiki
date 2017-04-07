@@ -17,25 +17,6 @@ SANS Defense
 - <a href='Tools/tcpip/ascii.html' target='_blank'>HEX/DEC/ASCII Chart</a>
 -   ----
 -   ----
-- **James Summers' TCP/IP Cheat Sheets**
-- <a href='Tools/tcpip/ip.html' target='_blank'>IP</a>
-- <a href='Tools/tcpip/ipv6.html' target='_blank'>IPv6</a>
-- <a href='Tools/tcpip/tcp.html' target='_blank'>TCP</a>
-- <a href='Tools/tcpip/udp.html' target='_blank'>UDP</a>
-- <a href='Tools/tcpip/icmp.html' target='_blank'>ICMP</a>
-- <a href='Tools/tcpip/dns.html' target='_blank'>DNS</a>
--   [Full Packet Analysis SpreadSheet](Packets.md)
--   ----
--   ----
-- **SANS Pocket Guides**
-- <a href='Tools/pdfs/tcpip.pdf' target='_blank'>TCP/IP and tcpdump</a>
-- <a href='Tools/pdfs/ipv6_tcpip_pocketguide.pdf' target='_blank'>IPv6</a>
-- <a href='Tools/pdfs/linux-shell-survival-guide.pdf' target='_blank'>DFIR Linux Shell Survival</a>
-- <a href='Tools/pdfs/PowerShellCheatSheet_v41.pdf' target='_blank'>PowerShell Cheat Sheet</a>
-- <a href='Tools/pdfs/windows-command-line-sheet.pdf' target='_blank'>Windows Command Line Cheat Sheet</a>
-- <a href='Tools/pdfs/ScapyCheatSheet_v0.2.pdf' target='_blank'>Scapy Cheat Sheet</a>
--   ----
--   ----
 - **Printable Versions**
 - [Printable](Printables.md)
 
@@ -59,21 +40,42 @@ SANS Defense
 - **Printable Versions**
 - [Printable](Printables.md)
 
+[TCP/IP]()
+
+- **Summers' TCP/IP Cheat Sheets**
+- <a href='Tools/tcpip/ip.html' target='_blank'>IP</a>
+- <a href='Tools/tcpip/ipv6.html' target='_blank'>IPv6</a>
+- <a href='Tools/tcpip/tcp.html' target='_blank'>TCP</a>
+- <a href='Tools/tcpip/udp.html' target='_blank'>UDP</a>
+- <a href='Tools/tcpip/icmp.html' target='_blank'>ICMP</a>
+- <a href='Tools/tcpip/dns.html' target='_blank'>DNS</a>
+-   ----
+-   ----
+- **Summer's Full Spreadsheet**
+-   [Full Packet Analysis SpreadSheet](Packets.md)
+-   ----
+-   ----
+- **Printable Versions**
+- [Printable](Printables.md)
 
 [BT: Courses|Certs]()
 
-- #### Blue Team Courses
+- **Blue Team Courses**
 - <a href='https://www.sans.org/sec555' target='_blank'>555 - SIEM</a>
 - <a href='https://www.sans.org/sec511' target='_blank'>511 - SecOps</a>
 - <a href='https://www.sans.org/sec503' target='_blank'>503 - IDS</a>
 - <a href='https://www.sans.org/sec505' target='_blank'>505 - Windows</a>
 - <a href='https://www.sans.org/sec506' target='_blank'>506 - Unix</a>
 - <a href='https://www.sans.org/sec579' target='_blank'>579 - Virtualization</a>
-- #### Upcoming Courses
+-   ----
+-   ----
+- **Upcoming Courses**
 - [545 - Cloud (**New**)](#)
 - [530 - Architecture (**Upcoming**)](#)
 - [487 - OPSEC (**Upcoming**)](#)
-- #### Blue Team Certifications
+-   ----
+-   ----
+- **Blue Team Certifications**
 - <a href='https://giac.org/gmon' target='_blank'>GMON - 511</a>
 - <a href='https://giac.org/gcia' target='_blank'>GCIA - 503</a>
 - <a href='https://giac.org/gcwn' target='_blank'>GCWN - 505</a>
@@ -84,17 +86,33 @@ SANS Defense
 
 [BT: Faculty]()
 
-- #### Blue Team Authors
+- **Blue Team Authors**
 - <a href='https://www.sans.org/instructors/Eric-Conrad' target='_blank'>Eric Conrad, 511</a>
 - <a href='https://www.sans.org/instructors/Jason-Fossen' target='_blank'>Jason Fossen, 505</a>
 - <a href='https://www.sans.org/instructors/Justin-Henderson' target='_blank'>Justin Henderson, 555</a>
+- <a href='https://www.sans.org/instructors/Seth-Misenar' target='_blank'>Seth Misenar</a>
 - <a href='https://www.sans.org/instructors/Judy-Novak' target='_blank'>Judy Novak, 503</a>
 - <a href='https://www.sans.org/instructors/Hal-Pomeranz' target='_blank'>Hal Pomeranz, 506</a>
 - <a href='https://www.sans.org/instructors/Dave-Shackleford' target='_blank'>Dave Shackleford, 579</a>
 - <a href='https://isc.sans.edu/handler_list.html#rob-vandenbrink' target='_blank'>Rob Vandenbrink, 579</a>
-- #### Blue Team Instructors
+-   ----
+-   ----
+- **Blue Team Instructors**
 - [Instructors](instructors.md)
 
+[Pocket Guides]()
+
+- **SANS Pocket Guides**
+- <a href='Tools/pdfs/tcpip.pdf' target='_blank'>TCP/IP and tcpdump</a>
+- <a href='Tools/pdfs/ipv6_tcpip_pocketguide.pdf' target='_blank'>IPv6</a>
+- <a href='Tools/pdfs/linux-shell-survival-guide.pdf' target='_blank'>DFIR Linux Shell Survival</a>
+- <a href='Tools/pdfs/PowerShellCheatSheet_v41.pdf' target='_blank'>PowerShell Cheat Sheet</a>
+- <a href='Tools/pdfs/windows-command-line-sheet.pdf' target='_blank'>Windows Command Line Cheat Sheet</a>
+- <a href='Tools/pdfs/ScapyCheatSheet_v0.2.pdf' target='_blank'>Scapy Cheat Sheet</a>
+-   ----
+-   ----
+- **Printable Versions**
+- [Printable](Printables.md)
 
 <!---
 [Updates]()
