@@ -5,7 +5,7 @@ Blue Team: Instructors
 - <a href='https://www.sans.org/instructors/Steve-Armstrong' target='_blank'>Steve Armstrong</a>
 - <a href='https://www.sans.org/instructors/Eric-Conrad' target='_blank'>Eric Conrad</a>
 - <a href='https://www.sans.org/instructors/Christopher-Crowley' target='_blank'>Christopher Crowley</a>
-- <a href='https://www.sans.org/instructors/Adrien-de-Beaupre' target='_blank'>Adrien de</a>
+- <a href='https://www.sans.org/instructors/Adrien-de-Beaupre' target='_blank'>Adrien de Beaupre</a>
 - <a href='https://www.sans.org/instructors/Mick-Douglas' target='_blank'>Mick Douglas</a>
 - <a href='https://www.sans.org/instructors/Kevin-Fiscus' target='_blank'>Kevin Fiscus</a>
 - <a href='https://www.sans.org/instructors/Jason-Fossen' target='_blank'>Jason Fossen</a>
@@ -20,13 +20,14 @@ Blue Team: Instructors
 - <a href='https://www.sans.org/instructors/John-Hubbard' target='_blank'>John Hubbard</a>
 - <a href='https://www.sans.org/instructors/Randy-Marchany' target='_blank'>Randy Marchany</a>
 - <a href='https://www.sans.org/instructors/David-Mashburn' target='_blank'>David Mashburn</a>
+- <a href='https://www.sans.org/instructors/Seth-Misenar' target='_blank'>Seth Misenar</a>
 - <a href='https://www.sans.org/instructors/Judy-Novak' target='_blank'>Judy Novak</a>
 - <a href='https://www.sans.org/instructors/Jorge-Orchilles' target='_blank'>Jorge Orchilles</a>
 - <a href='https://www.sans.org/instructors/Hal-Pomeranz' target='_blank'>Hal Pomeranz</a>
 - <a href='https://www.sans.org/instructors/Dave-Shackleford' target='_blank'>Dave Shackleford</a>
 - <a href='https://www.sans.org/instructors/Bryan-Simon' target='_blank'>Bryan Simon</a>
 - <a href='https://www.sans.org/instructors/Peter-Szczepankiewicz' target='_blank'>Peter Szczepankiewicz</a>
-- <a href='https://www.sans.org/instructors/Johannes-Ullrich-Ph.D.' target='_blank'>Johannes Ullrich</a>
+- <a href='https://www.sans.org/instructors/Johannes-Ullrich-Ph.D.' target='_blank'>Johannes Ullrich, Ph.D.</a>
 - <a href='https://www.sans.org/instructors/Ismael-Valenzuela' target='_blank'>Ismael Valenzuela</a>
 - <a href='https://isc.sans.edu/handler_list.html#rob-vandenbrink' target='_blank'>Rob Vandenbrink</a>
 - <a href='https://www.sans.org/instructors/Don-Williams' target='_blank'>Don Williams</a>
