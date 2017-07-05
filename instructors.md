@@ -27,7 +27,7 @@ Blue Team: Instructors
 - <a href='https://www.sans.org/instructors/Dave-Shackleford' target='_blank'>Dave Shackleford</a>
 - <a href='https://www.sans.org/instructors/Bryan-Simon' target='_blank'>Bryan Simon</a>
 - <a href='https://www.sans.org/instructors/Peter-Szczepankiewicz' target='_blank'>Peter Szczepankiewicz</a>
-- <a href='https://www.sans.org/instructors/Johannes-Ullrich-Ph.D.' target='_blank'>Johannes Ullrich, Ph.D.</a>
+- <a href='https://www.sans.org/instructors/dr-johannes-ullrich' target='_blank'>Johannes Ullrich, Ph.D.</a>
 - <a href='https://www.sans.org/instructors/Ismael-Valenzuela' target='_blank'>Ismael Valenzuela</a>
 - <a href='https://isc.sans.edu/handler_list.html#rob-vandenbrink' target='_blank'>Rob Vandenbrink</a>
 - <a href='https://www.sans.org/instructors/Don-Williams' target='_blank'>Don Williams</a>
