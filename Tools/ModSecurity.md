@@ -74,7 +74,7 @@ SecRule &REQUEST_HEADERS:User-Agent "@eq 0" "log,auditlog,msg:'alert message'"
 ```
 Detect HTTP requests with more than one parameter named password
 ```bash
-SecRule &ARGS:password "@gt 1" "log,auditlog,msg:'alert message'"
+SecRule &ARGS:password "@gt 1" "id:'999999',log,auditlog,msg:'alert message'"
 ```
 Detect HTTP requests without a Host header.
 ```bash
