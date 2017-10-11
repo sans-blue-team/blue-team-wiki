@@ -97,6 +97,7 @@ Case sensitivity is now set to True
 Feed (**`-f`**) the frequency table with representative (read: normal) data
 
 ```bash
+[/opt/freq]$ cut -f2 -d, /bonus/alexa/top-10k.csv  > /home/student/bootcamp/normal_domains.txt
 [/opt/freq]$ python freq.py -f /home/student/bootcamp/normal_domains.txt 511_domains.freq
 ```
 
