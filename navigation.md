@@ -129,8 +129,7 @@ SANS Defense
 - **Printable Versions**
 - [Printable](Printables.md)
 
-[Cyber Defense NetWars]()
-- <a href='https://www.sans.org/netwars/cyber-defense' target='_blank'>CD NetWars</a>
+<a href='https://www.sans.org/netwars/cyber-defense' target='_blank'>Cyber Defense NetWars</a>
   
 <!---
 [Updates]()
