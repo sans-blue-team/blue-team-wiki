@@ -23,18 +23,43 @@ SANS Defense
 
 [Tools]()
 
-- **Key Tools**
+- **Network**
 - [Bro](Tools/Bro.md)
-- [freq.py](Tools/freq.py.md)
+- [ModSecurity](Tools/ModSecurity.md)
+- [Nessus](Tools/Nessus.md)
 - [ngrep](Tools/ngrep.md)
 - [tcpdump](Tools/tcpdump.md)
 - [tshark](Tools/tshark.md)
+-   ----
+-   ----
+- **Endpoint**
 - [PowerShell Get-WinEvent](Tools/Get-WinEvent.md)
 -   ----
 -   ----
-- **Linux Command Line**
+- **Utilities**
+- [freq.py](Tools/freq.py.md)
+- [freq_server.py](Tools/freq_server.py.md)
+- [cURL](Tools/curl.md)
+- [domain_stats.py](Tools/domain_stats.py)
+- [exiftool](Tools/exiftool)
+- [Recon-ng](Tools/Recon-ng.md)
+- [Wget](Tools/Wget.md)
+-   ----
+-   ----
+- **Linux Command Line Primers**
 -	[Linux CLI 101](Tools/LinuxCLI101.md)
 -	[Linux CLI](Tools/LinuxCLI.md)
+-   ----
+-   ----
+- **Elastic Stack**
+- [Beats](Tools/beats.md)
+- [ElastAlert](Tools/ElastAlert.md)
+- [Elasticsearch](Tools/Elasticsearch.md)
+- [Flare](Tools/Flare.md)
+- [kopf](Tools/kopf.md)
+- [Logstash](Tools/Logstash.md)
+- [NXLog](Tools/NXLog.md)
+- [RabbitMQ](Tools/RabbitMQ.md)
 -   ----
 -   ----
 - **Printable Versions**
