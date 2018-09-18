@@ -32,10 +32,6 @@ SANS Defense
 - [tshark](Tools/tshark.md)
 -   ----
 -   ----
-- **Endpoint**
-- [PowerShell Get-WinEvent](Tools/Get-WinEvent.md)
--   ----
--   ----
 - **Utilities**
 - [freq.py](Tools/freq.py.md)
 - [freq_server.py](Tools/freq_server.py.md)
@@ -44,11 +40,6 @@ SANS Defense
 - [exiftool](Tools/exiftool)
 - [Recon-ng](Tools/Recon-ng.md)
 - [Wget](Tools/Wget.md)
--   ----
--   ----
-- **Linux Command Line Primers**
--	[Linux CLI 101](Tools/LinuxCLI101.md)
--	[Linux CLI](Tools/LinuxCLI.md)
 -   ----
 -   ----
 - **Elastic Stack**
@@ -86,21 +77,20 @@ SANS Defense
 [BT: Courses|Certs]()
 
 - **Blue Team Courses**
+- <a href='https://www.sans.org/sec487' target='_blank'>487 - OSINT</a>
 - <a href='https://www.sans.org/sec555' target='_blank'>555 - SIEM</a>
 - <a href='https://www.sans.org/sec511' target='_blank'>511 - SecOps</a>
 - <a href='https://www.sans.org/sec503' target='_blank'>503 - IDS</a>
 - <a href='https://www.sans.org/sec505' target='_blank'>505 - Windows</a>
 - <a href='https://www.sans.org/sec506' target='_blank'>506 - Unix</a>
+- <a href='https://www.sans.org/sec530' target='_blank'>530 - Architecture</a>
+- <a href='https://www.sans.org/sec545' target='_blank'>545 - Cloud</a>
+
 - <a href='https://www.sans.org/sec579' target='_blank'>579 - Virtualization</a>
 -   ----
 -   ----
-- **Upcoming Courses**
-- [545 - Cloud (**New**)](#)
-- [530 - Architecture (**Upcoming**)](#)
-- [487 - OPSEC (**Upcoming**)](#)
--   ----
--   ----
 - **Blue Team Certifications**
+- <a href='https://giac.org/gcda' target='_blank'>GCDA - 555</a>
 - <a href='https://giac.org/gmon' target='_blank'>GMON - 511</a>
 - <a href='https://giac.org/gcia' target='_blank'>GCIA - 503</a>
 - <a href='https://giac.org/gcwn' target='_blank'>GCWN - 505</a>
@@ -139,6 +129,9 @@ SANS Defense
 - **Printable Versions**
 - [Printable](Printables.md)
 
+[Cyber Defense NetWars]()
+- <a href='https://www.sans.org/netwars/cyber-defense' target='_blank'>CD NetWars</a>
+  
 <!---
 [Updates]()
 
