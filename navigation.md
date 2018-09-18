@@ -108,8 +108,7 @@ SANS Defense
 - <a href='https://www.sans.org/instructors/Seth-Misenar' target='_blank'>Seth Misenar</a>
 - <a href='https://www.sans.org/instructors/Judy-Novak' target='_blank'>Judy Novak, 503</a>
 - <a href='https://www.sans.org/instructors/Hal-Pomeranz' target='_blank'>Hal Pomeranz, 506</a>
-- <a href='https://www.sans.org/instructors/Dave-Shackleford' target='_blank'>Dave Shackleford, 579</a>
-- <a href='https://isc.sans.edu/handler_list.html#rob-vandenbrink' target='_blank'>Rob Vandenbrink, 579</a>
+- <a href='https://www.sans.org/instructors/Dave-Shackleford' target='_blank'>Dave Shackleford, 545</a>
 -   ----
 -   ----
 - **Blue Team Instructors**
