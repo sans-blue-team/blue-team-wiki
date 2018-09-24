@@ -46,7 +46,7 @@ _exists_:tls
 
 This is an example of looking for logs that do not have a field named tls:
 ```bash
-_missing_:tls
+-_exists_:tls
 ```
 
 This is an example of looking for logs that do not have a tag of pci:
