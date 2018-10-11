@@ -171,10 +171,10 @@ SEC511
 - [4.1](/sec511-labs/Labs/511_4/1/sec511.4.1.md)
 - [4.2](/sec511-labs/Labs/511_4/2/sec511.4.2.md)
 - [4.3](/sec511-labs/Labs/511_4/3/sec511.4.3.md)
-- [4.4](/sec511-labs/Labs/511_4/4/sec511.4.4.md)
 - [5.1](/sec511-labs/Labs/511_5/1/sec511.5.1.md)
 - [5.2](/sec511-labs/Labs/511_5/2/sec511.5.2.md)
 - [5.3](/sec511-labs/Labs/511_5/3/sec511.5.3.md)
 - [5.4](/sec511-labs/Labs/511_5/4/sec511.5.4.md)
+- [5.5](/sec511-labs/Labs/511_5/5/sec511.5.5.md)
 
 [Bootcamp Reveal](/sec511-labs/Resources/handout.pdf)
