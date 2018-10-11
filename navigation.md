@@ -47,6 +47,7 @@ SANS Defense
 - [ElastAlert](Tools/ElastAlert.md)
 - [Elasticsearch](Tools/Elasticsearch.md)
 - [Flare](Tools/Flare.md)
+- [Kibana](Tools/Kibana.md)
 - [kopf](Tools/kopf.md)
 - [Logstash](Tools/Logstash.md)
 - [NXLog](Tools/NXLog.md)
@@ -77,16 +78,14 @@ SANS Defense
 [BT: Courses|Certs]()
 
 - **Blue Team Courses**
+- <a href='https://www.sans.org/sec530' target='_blank'>530 - Architecture</a>
 - <a href='https://www.sans.org/sec487' target='_blank'>487 - OSINT</a>
 - <a href='https://www.sans.org/sec555' target='_blank'>555 - SIEM</a>
 - <a href='https://www.sans.org/sec511' target='_blank'>511 - SecOps</a>
 - <a href='https://www.sans.org/sec503' target='_blank'>503 - IDS</a>
 - <a href='https://www.sans.org/sec505' target='_blank'>505 - Windows</a>
 - <a href='https://www.sans.org/sec506' target='_blank'>506 - Unix</a>
-- <a href='https://www.sans.org/sec530' target='_blank'>530 - Architecture</a>
 - <a href='https://www.sans.org/sec545' target='_blank'>545 - Cloud</a>
-
-- <a href='https://www.sans.org/sec579' target='_blank'>579 - Virtualization</a>
 -   ----
 -   ----
 - **Blue Team Certifications**
@@ -108,8 +107,7 @@ SANS Defense
 - <a href='https://www.sans.org/instructors/Seth-Misenar' target='_blank'>Seth Misenar</a>
 - <a href='https://www.sans.org/instructors/Judy-Novak' target='_blank'>Judy Novak, 503</a>
 - <a href='https://www.sans.org/instructors/Hal-Pomeranz' target='_blank'>Hal Pomeranz, 506</a>
-- <a href='https://www.sans.org/instructors/Dave-Shackleford' target='_blank'>Dave Shackleford, 579</a>
-- <a href='https://isc.sans.edu/handler_list.html#rob-vandenbrink' target='_blank'>Rob Vandenbrink, 579</a>
+- <a href='https://www.sans.org/instructors/Dave-Shackleford' target='_blank'>Dave Shackleford, 545</a>
 -   ----
 -   ----
 - **Blue Team Instructors**
