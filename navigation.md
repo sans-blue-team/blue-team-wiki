@@ -47,6 +47,7 @@ SEC511
 - [ElastAlert](Tools/ElastAlert.md)
 - [Elasticsearch](Tools/Elasticsearch.md)
 - [Flare](Tools/Flare.md)
+- [Kibana](Tools/Kibana.md)
 - [kopf](Tools/kopf.md)
 - [Logstash](Tools/Logstash.md)
 - [NXLog](Tools/NXLog.md)
@@ -77,16 +78,15 @@ SEC511
 [BT: Courses|Certs]()
 
 - **Blue Team Courses**
+- <a href='https://www.sans.org/sec455' target='_blank'>455 - Elastic Stack</a>
+- <a href='https://www.sans.org/sec530' target='_blank'>530 - Architecture</a>
 - <a href='https://www.sans.org/sec487' target='_blank'>487 - OSINT</a>
 - <a href='https://www.sans.org/sec555' target='_blank'>555 - SIEM</a>
-- <a href='https://www.sans.org/sec511' target='_blank'>511 - SecOps</a>
 - <a href='https://www.sans.org/sec503' target='_blank'>503 - IDS</a>
 - <a href='https://www.sans.org/sec505' target='_blank'>505 - Windows</a>
 - <a href='https://www.sans.org/sec506' target='_blank'>506 - Unix</a>
-- <a href='https://www.sans.org/sec530' target='_blank'>530 - Architecture</a>
+- <a href='https://www.sans.org/sec511' target='_blank'>511 - SecOps</a>
 - <a href='https://www.sans.org/sec545' target='_blank'>545 - Cloud</a>
-
-- <a href='https://www.sans.org/sec579' target='_blank'>579 - Virtualization</a>
 -   ----
 -   ----
 - **Blue Team Certifications**
@@ -137,8 +137,7 @@ SEC511
 
 - [Linux VM Setup](/sec511-labs/Labs/setup/A/sec511.A.md)
 - [Windows VM Setup](/sec511-labs/Labs/setup/B/sec511.B.md)
-- [VMware Bridge Mode](Labs/setup/C/sec511.C.md)
-- [OpenVPN Setup](Labs/setup/D/sec511.D.md)
+- [NetWars Bootcamp Setup](Labs/setup/C/sec511.C.md)
 - [511.1](/sec511-labs/Labs/511_1/511.1.md)
 - [511.2](/sec511-labs/Labs/511_2/511.2.md)
 - [511.3](/sec511-labs/Labs/511_3/511.3.md)
