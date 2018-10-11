@@ -13,18 +13,20 @@ SANS Blue Team Operations Curriculum
 --------
 Blue Team Operations is a recently formed curriculum at SANS. Much like SANS DFIR and Pen Test curricula, the goal of forming a dedicated curriculum for Blue Team serves to allow heightened focus serving the community. More specifically, Blue Team now has SANS Authors/Instructors Eric Conrad and Seth Misenar to provide this focus. The most obvious and outward results of the curriculum will be new courses specifically developed to meet the needs of the Cyber Defense community. Check out our recently developed and forthcoming Blue Team offerings:
 
-### New and Upcoming Courses
-- <a href='https://www.sans.org/sec555' target='_blank'>SEC555: SIEM and Tactical Analytics *New*</a>
-- SEC545: Cloud Security *New*
-- SEC530 - Architecture (*2018*)
-- SEC487 - OPSEC (*2018*)
+### Recent Additions and Upcoming Blue Team Courses
+- <a href='https://www.sans.org/sec530' target='_blank'>SEC530: Defensible Security Architecture</a>
+- <a href='https://www.sans.org/sec487' target='_blank'>SEC487: Open-Source Intelligence Gathering (OSINT) and Analysis</a>
+- <a href='https://www.sans.org/sec545' target='_blank'>SEC545: Cloud Security Architecture</a>
+- <a href='https://www.sans.org/sec455' target='_blank'>SEC455: Elastic Stack SIEM Design</a>
+- <a href='https://www.sans.org/sec555' target='_blank'>SEC555: SIEM with Tactical Analytics</a>
+- SEC450: Blue Team Fundamentals: Security Operations and Analysis (**2019**) 
 
 
 
 Live Blue Team Wiki
 --------
 
-See the <a href="https://sans-blue-team.github.io/blue-team-wiki/" target="_blank">hosted version</a> of this wiki, and our supporting repository for the latest version and to contribute to future versions.
+See the <a href="https://wiki.sans.blue" target="_blank">hosted version</a> of this wiki, and our supporting repository for the latest version and to contribute to future versions.
 
 SANS Blue Team GitHub
 --------
@@ -32,7 +34,7 @@ For this wiki and other projects, please check out the SANS Blue Team GitHub acc
 
 Version
 --------
-#### **`SANS Blue Team Wiki Version: 0.0.1 #Beta`**
+#### **`SANS Blue Team Wiki Version: 1.0`**
 ---
 
 <!---
