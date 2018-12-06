@@ -148,7 +148,7 @@ SEC511
 [Resources]()
 
 - **511 Resources**
-- [Lab Videos](/sec511-labs/Resources/Videos.md)
+<!-- - [Lab Videos](/sec511-labs/Resources/Videos.md) -->
 - [Course Index](/sec511-labs/Resources/511_index.md)
 - [Course MP3s](/sec511-labs/Resources/Audio.md)
 - [Alumni Mailing List](/index.md#Alumni_Mailing_List)
