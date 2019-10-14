@@ -36,8 +36,8 @@ SANS Defense
 - [freq.py](Tools/freq.py.md)
 - [freq_server.py](Tools/freq_server.py.md)
 - [cURL](Tools/curl.md)
-- [domain_stats.py](Tools/domain_stats.py)
-- [exiftool](Tools/exiftool)
+- [domain_stats.py](Tools/domain_stats.py.md)
+- [exiftool](Tools/exiftool.md)
 - [Recon-ng](Tools/Recon-ng.md)
 - [Wget](Tools/Wget.md)
 -   ----
