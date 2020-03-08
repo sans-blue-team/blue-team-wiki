@@ -9,3 +9,4 @@ BT: Authors
 - <a href='https://www.sans.org/instructors/Hal-Pomeranz' target='_blank'>Hal Pomeranz</a>, **506**
 - <a href='https://www.sans.org/instructors/Dave-Shackleford' target='_blank'>Dave Shackleford</a>, **579**
 - <a href='https://isc.sans.edu/handler_list.html#rob-vandenbrink' target='_blank'>Rob Vandenbrink</a>, **579**
+- <a href='https://www.sans.org/instructors/Micah-Hoffman' target='_blank'>Micah Hoffman</a>, **487**
