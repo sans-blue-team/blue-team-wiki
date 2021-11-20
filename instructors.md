@@ -1,33 +1,36 @@
 Blue Team: Instructors
 ========
 
-- <a href='https://www.sans.org/instructors/Nik-Alleyne' target='_blank'>Nik Alleyne</a>
-- <a href='https://www.sans.org/instructors/Steve-Armstrong' target='_blank'>Steve Armstrong</a>
-- <a href='https://www.sans.org/instructors/Eric-Conrad' target='_blank'>Eric Conrad</a>
-- <a href='https://www.sans.org/instructors/Christopher-Crowley' target='_blank'>Christopher Crowley</a>
 - <a href='https://www.sans.org/instructors/Adrien-de-Beaupre' target='_blank'>Adrien de Beaupre</a>
-- <a href='https://www.sans.org/instructors/Mick-Douglas' target='_blank'>Mick Douglas</a>
-- <a href='https://www.sans.org/instructors/Kevin-Fiscus' target='_blank'>Kevin Fiscus</a>
-- <a href='https://www.sans.org/instructors/Jason-Fossen' target='_blank'>Jason Fossen</a>
-- <a href='https://www.sans.org/instructors/Jess-Garcia' target='_blank'>Jess Garcia</a>
-- <a href='https://www.sans.org/instructors/Tim-Garcia' target='_blank'>Tim Garcia</a>
-- <a href='https://www.sans.org/instructors/Jonathan-Ham' target='_blank'>Jonathan Ham</a>
-- <a href='https://www.sans.org/instructors/Justin-Henderson' target='_blank'>Justin Henderson</a>
-- <a href='https://www.sans.org/instructors/Paul-Henry' target='_blank'>Paul Henry</a>
-- <a href='https://www.sans.org/instructors/David-Hoelzer' target='_blank'>David Hoelzer</a>
-- <a href='https://www.sans.org/instructors/Micah-Hoffman' target='_blank'>Micah Hoffman</a>
-- <a href='https://www.sans.org/instructors/Mark-Hofman' target='_blank'>Mark Hofman</a>
-- <a href='https://www.sans.org/instructors/John-Hubbard' target='_blank'>John Hubbard</a>
-- <a href='https://www.sans.org/instructors/Randy-Marchany' target='_blank'>Randy Marchany</a>
-- <a href='https://www.sans.org/instructors/David-Mashburn' target='_blank'>David Mashburn</a>
-- <a href='https://www.sans.org/instructors/Seth-Misenar' target='_blank'>Seth Misenar</a>
-- <a href='https://www.sans.org/instructors/Judy-Novak' target='_blank'>Judy Novak</a>
-- <a href='https://www.sans.org/instructors/Jorge-Orchilles' target='_blank'>Jorge Orchilles</a>
-- <a href='https://www.sans.org/instructors/Hal-Pomeranz' target='_blank'>Hal Pomeranz</a>
-- <a href='https://www.sans.org/instructors/Dave-Shackleford' target='_blank'>Dave Shackleford</a>
 - <a href='https://www.sans.org/instructors/Bryan-Simon' target='_blank'>Bryan Simon</a>
-- <a href='https://www.sans.org/instructors/Peter-Szczepankiewicz' target='_blank'>Peter Szczepankiewicz</a>
-- <a href='https://www.sans.org/instructors/dr-johannes-ullrich' target='_blank'>Johannes Ullrich, Ph.D.</a>
-- <a href='https://www.sans.org/instructors/Ismael-Valenzuela' target='_blank'>Ismael Valenzuela</a>
-- <a href='https://isc.sans.edu/handler_list.html#rob-vandenbrink' target='_blank'>Rob Vandenbrink</a>
+- <a href='https://www.sans.org/instructors/Christopher-Crowley' target='_blank'>Christopher Crowley</a>
+- <a href='https://www.sans.org/instructors/Dave-Shackleford' target='_blank'>Dave Shackleford</a>
+- <a href='https://www.sans.org/instructors/David-Hoelzer' target='_blank'>David Hoelzer</a>
+- <a href='https://www.sans.org/instructors/David-Mashburn' target='_blank'>David Mashburn</a>
 - <a href='https://www.sans.org/instructors/Don-Williams' target='_blank'>Don Williams</a>
+- <a href='https://www.sans.org/instructors/Eric-Conrad' target='_blank'>Eric Conrad</a>
+- <a href='https://www.sans.org/instructors/Hal-Pomeranz' target='_blank'>Hal Pomeranz</a>
+- <a href='https://www.sans.org/instructors/Ismael-Valenzuela' target='_blank'>Ismael Valenzuela</a>
+- <a href='https://www.sans.org/instructors/Jason-Fossen' target='_blank'>Jason Fossen</a>
+- <a href='https://www.sans.org/instructors/Jeffrey-Lomas' target='_blank'>Jeff Lomas</a>
+- <a href='https://www.sans.org/instructors/Jess-Garcia' target='_blank'>Jess Garcia</a>
+- <a href='https://www.sans.org/instructors/John-Hubbard' target='_blank'>John Hubbard</a>
+- <a href='https://www.sans.org/instructors/john-terbush' target='_blank'>John TerBush</a>
+- <a href='https://www.sans.org/instructors/Jonathan-Ham' target='_blank'>Jonathan Ham</a>
+- <a href='https://www.sans.org/instructors/Jorge-Orchilles' target='_blank'>Jorge Orchilles</a>
+- <a href='https://www.sans.org/instructors/Josh-Huff' target='_blank'>Josh Huff</a>
+- <a href='https://www.sans.org/instructors/Judy-Novak' target='_blank'>Judy Novak</a>
+- <a href='https://www.sans.org/instructors/Justin-Henderson' target='_blank'>Justin Henderson</a>
+- <a href='https://www.sans.org/instructors/Kevin-Fiscus' target='_blank'>Kevin Fiscus</a>
+- <a href='https://www.sans.org/instructors/Mark-Hofman' target='_blank'>Mark Hofman</a>
+- <a href='https://www.sans.org/instructors/Micah-Hoffman' target='_blank'>Micah Hoffman</a>
+- <a href='https://www.sans.org/instructors/Mick-Douglas' target='_blank'>Mick Douglas</a>
+- <a href='https://www.sans.org/instructors/Nik-Alleyne' target='_blank'>Nik Alleyne</a>
+- <a href='https://www.sans.org/instructors/Nico-Dekens' target='_blank'>Nico Dekens</a>
+- <a href='https://www.sans.org/instructors/Peter-Szczepankiewicz' target='_blank'>Peter Szczepankiewicz</a>
+- <a href='https://www.sans.org/instructors/Randy-Marchany' target='_blank'>Randy Marchany</a>
+- <a href='https://www.sans.org/instructors/Seth-Misenar' target='_blank'>Seth Misenar</a>
+- <a href='https://www.sans.org/instructors/Steve-Armstrong' target='_blank'>Steve Armstrong</a>
+- <a href='https://www.sans.org/instructors/Tim-Garcia' target='_blank'>Tim Garcia</a>
+- <a href='https://www.sans.org/instructors/dr-johannes-ullrich' target='_blank'>Johannes Ullrich, Ph.D.</a>
+- <a href='https://isc.sans.edu/handler_list.html#rob-vandenbrink' target='_blank'>Rob Vandenbrink</a>
