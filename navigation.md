@@ -90,6 +90,7 @@ SANS Defense
 -   ----
 - **Blue Team Certifications**
 - <a href='https://giac.org/gcda' target='_blank'>GCDA - 555</a>
+- <a href='https://giac.org/gdsa' target='_blank'>GDSA - 530</a>
 - <a href='https://giac.org/gmon' target='_blank'>GMON - 511</a>
 - <a href='https://giac.org/gcia' target='_blank'>GCIA - 503</a>
 - <a href='https://giac.org/gcwn' target='_blank'>GCWN - 505</a>
